@@ -7096,9 +7096,9 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-05-01,Bhutan,734,456,0
 2021-06-01,Bhutan,755,456,0
 2021-07-01,Bhutan,767,459,0
-2021-08-01,Bhutan,767,459,0
-2021-09-01,Bhutan,767,459,0
-2021-10-01,Bhutan,767,459,0
+2021-08-01,Bhutan,771,459,1
+2021-09-01,Bhutan,810,459,1
+2021-10-01,Bhutan,813,459,1
 2020-22-01,Bolivia,0,0,0
 2020-23-01,Bolivia,0,0,0
 2020-24-01,Bolivia,0,0,0
@@ -20223,17 +20223,17 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-28-12,Eritrea,1039,623,1
 2020-29-12,Eritrea,1220,643,1
 2020-30-12,Eritrea,1252,643,1
-2020-31-12,Eritrea,1252,643,1
-2021-01-01,Eritrea,1252,643,1
-2021-02-01,Eritrea,1252,643,1
-2021-03-01,Eritrea,1252,643,1
-2021-04-01,Eritrea,1252,643,1
-2021-05-01,Eritrea,1252,643,1
-2021-06-01,Eritrea,1252,643,1
+2020-31-12,Eritrea,1320,643,3
+2021-01-01,Eritrea,1320,643,3
+2021-02-01,Eritrea,1320,643,3
+2021-03-01,Eritrea,1320,643,3
+2021-04-01,Eritrea,1363,643,3
+2021-05-01,Eritrea,1363,643,3
+2021-06-01,Eritrea,1445,643,3
 2021-07-01,Eritrea,1445,740,3
-2021-08-01,Eritrea,1445,740,3
-2021-09-01,Eritrea,1445,740,3
-2021-10-01,Eritrea,1445,740,3
+2021-08-01,Eritrea,1556,740,6
+2021-09-01,Eritrea,1556,740,6
+2021-10-01,Eritrea,1556,740,6
 2020-22-01,Estonia,0,0,0
 2020-23-01,Estonia,0,0,0
 2020-24-01,Estonia,0,0,0
@@ -24841,14 +24841,14 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-31-12,Grenada,127,107,0
 2021-01-01,Grenada,127,107,0
 2021-02-01,Grenada,127,107,0
-2021-03-01,Grenada,127,107,0
-2021-04-01,Grenada,127,107,0
-2021-05-01,Grenada,127,107,0
-2021-06-01,Grenada,127,107,0
-2021-07-01,Grenada,127,107,0
-2021-08-01,Grenada,127,107,0
-2021-09-01,Grenada,127,107,0
-2021-10-01,Grenada,127,107,0
+2021-03-01,Grenada,127,107,1
+2021-04-01,Grenada,127,107,1
+2021-05-01,Grenada,127,107,1
+2021-06-01,Grenada,127,107,1
+2021-07-01,Grenada,127,107,1
+2021-08-01,Grenada,127,107,1
+2021-09-01,Grenada,127,107,1
+2021-10-01,Grenada,127,107,1
 2020-22-01,Guatemala,0,0,0
 2020-23-01,Guatemala,0,0,0
 2020-24-01,Guatemala,0,0,0
@@ -51827,8 +51827,8 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-06-01,Saint Vincent and the Grenadines,149,100,0
 2021-07-01,Saint Vincent and the Grenadines,149,100,0
 2021-08-01,Saint Vincent and the Grenadines,149,100,0
-2021-09-01,Saint Vincent and the Grenadines,149,100,0
-2021-10-01,Saint Vincent and the Grenadines,149,100,0
+2021-09-01,Saint Vincent and the Grenadines,225,100,0
+2021-10-01,Saint Vincent and the Grenadines,249,100,0
 2020-22-01,Samoa,0,0,0
 2020-23-01,Samoa,0,0,0
 2020-24-01,Samoa,0,0,0
@@ -54303,17 +54303,17 @@ Date,Country,Confirmed,Recovered,Deaths
 2020-28-12,Seychelles,217,207,0
 2020-29-12,Seychelles,217,207,0
 2020-30-12,Seychelles,256,212,0
-2020-31-12,Seychelles,275,214,0
-2021-01-01,Seychelles,275,214,0
+2020-31-12,Seychelles,256,214,0
+2021-01-01,Seychelles,256,214,0
 2021-02-01,Seychelles,285,214,0
 2021-03-01,Seychelles,297,214,0
-2021-04-01,Seychelles,313,214,0
-2021-05-01,Seychelles,313,214,0
-2021-06-01,Seychelles,313,214,0
-2021-07-01,Seychelles,313,214,0
-2021-08-01,Seychelles,313,214,0
-2021-09-01,Seychelles,313,214,0
-2021-10-01,Seychelles,313,214,0
+2021-04-01,Seychelles,322,214,1
+2021-05-01,Seychelles,354,214,1
+2021-06-01,Seychelles,373,214,1
+2021-07-01,Seychelles,373,214,1
+2021-08-01,Seychelles,451,214,1
+2021-09-01,Seychelles,508,214,1
+2021-10-01,Seychelles,531,214,1
 2020-22-01,Sierra Leone,0,0,0
 2020-23-01,Sierra Leone,0,0,0
 2020-24-01,Sierra Leone,0,0,0
