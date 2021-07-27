@@ -550,6 +550,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Afghanistan,143439,82586,6357
 2021-24-07,Afghanistan,143439,82586,6357
 2021-25-07,Afghanistan,143439,82586,6357
+2021-26-07,Afghanistan,144285,82586,6477
 2020-22-01,Albania,0,0,0
 2020-23-01,Albania,0,0,0
 2020-24-01,Albania,0,0,0
@@ -1101,6 +1102,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Albania,132828,130118,2456
 2021-24-07,Albania,132853,130125,2456
 2021-25-07,Albania,132875,130139,2456
+2021-26-07,Albania,132891,130152,2456
 2020-22-01,Algeria,0,0,0
 2020-23-01,Algeria,0,0,0
 2020-24-01,Algeria,0,0,0
@@ -1652,6 +1654,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Algeria,159563,109349,4026
 2021-24-07,Algeria,160868,109951,4042
 2021-25-07,Algeria,162155,110577,4063
+2021-26-07,Algeria,163660,111322,4087
 2020-22-01,Andorra,0,0,0
 2020-23-01,Andorra,0,0,0
 2020-24-01,Andorra,0,0,0
@@ -2203,6 +2206,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Andorra,14498,13988,127
 2021-24-07,Andorra,14498,13988,127
 2021-25-07,Andorra,14498,13988,127
+2021-26-07,Andorra,14577,14077,127
 2020-22-01,Angola,0,0,0
 2020-23-01,Angola,0,0,0
 2020-24-01,Angola,0,0,0
@@ -2754,6 +2758,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Angola,41629,35284,981
 2021-24-07,Angola,41736,35423,982
 2021-25-07,Angola,41780,35474,984
+2021-26-07,Angola,41879,35686,991
 2020-22-01,Antigua and Barbuda,0,0,0
 2020-23-01,Antigua and Barbuda,0,0,0
 2020-24-01,Antigua and Barbuda,0,0,0
@@ -3305,6 +3310,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Antigua and Barbuda,1277,1225,42
 2021-24-07,Antigua and Barbuda,1280,1229,43
 2021-25-07,Antigua and Barbuda,1280,1229,43
+2021-26-07,Antigua and Barbuda,1280,1229,43
 2020-22-01,Argentina,0,0,0
 2020-23-01,Argentina,0,0,0
 2020-24-01,Argentina,0,0,0
@@ -3856,6 +3862,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Argentina,4827973,4464987,103359
 2021-24-07,Argentina,4839109,4480336,103584
 2021-25-07,Argentina,4846615,4493984,103721
+2021-26-07,Argentina,4859170,4508137,104105
 2020-22-01,Armenia,0,0,0
 2020-23-01,Armenia,0,0,0
 2020-24-01,Armenia,0,0,0
@@ -4407,6 +4414,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Armenia,228382,218796,4579
 2021-24-07,Armenia,228632,218958,4584
 2021-25-07,Armenia,228798,219062,4587
+2021-26-07,Armenia,228910,219168,4590
 2020-22-01,Australia,0,0,0
 2020-23-01,Australia,0,0,0
 2020-24-01,Australia,0,0,0
@@ -4958,6 +4966,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Australia,32753,23986,916
 2021-24-07,Australia,32918,24001,918
 2021-25-07,Australia,33082,24001,918
+2021-26-07,Australia,33266,24008,922
 2020-22-01,Austria,0,0,0
 2020-23-01,Austria,0,0,0
 2020-24-01,Austria,0,0,0
@@ -5509,6 +5518,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Austria,655589,640430,10730
 2021-24-07,Austria,655938,640685,10731
 2021-25-07,Austria,656270,640951,10731
+2021-26-07,Austria,656582,641222,10732
 2020-22-01,Azerbaijan,0,0,0
 2020-23-01,Azerbaijan,0,0,0
 2020-24-01,Azerbaijan,0,0,0
@@ -6060,6 +6070,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Azerbaijan,339645,331782,5002
 2021-24-07,Azerbaijan,340057,331907,5002
 2021-25-07,Azerbaijan,340443,332056,5006
+2021-26-07,Azerbaijan,340715,332136,5009
 2020-22-01,Bahamas,0,0,0
 2020-23-01,Bahamas,0,0,0
 2020-24-01,Bahamas,0,0,0
@@ -6611,6 +6622,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Bahamas,13781,12158,274
 2021-24-07,Bahamas,13781,12158,274
 2021-25-07,Bahamas,13781,12158,274
+2021-26-07,Bahamas,14252,12298,284
 2020-22-01,Bahrain,0,0,0
 2020-23-01,Bahrain,0,0,0
 2020-24-01,Bahrain,0,0,0
@@ -7162,6 +7174,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Bahrain,268338,266123,1381
 2021-24-07,Bahrain,268413,266213,1382
 2021-25-07,Bahrain,268541,266321,1383
+2021-26-07,Bahrain,268626,266417,1383
 2020-22-01,Bangladesh,0,0,0
 2020-23-01,Bangladesh,0,0,0
 2020-24-01,Bangladesh,0,0,0
@@ -7713,6 +7726,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Bangladesh,1146564,978616,18851
 2021-24-07,Bangladesh,1153344,988339,19046
 2021-25-07,Bangladesh,1164635,998923,19274
+2021-26-07,Bangladesh,1179827,1009975,19521
 2020-22-01,Barbados,0,0,0
 2020-23-01,Barbados,0,0,0
 2020-24-01,Barbados,0,0,0
@@ -8264,6 +8278,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Barbados,4330,4098,48
 2021-24-07,Barbados,4339,4098,48
 2021-25-07,Barbados,4345,4098,48
+2021-26-07,Barbados,4353,4136,48
 2020-22-01,Belarus,0,0,0
 2020-23-01,Belarus,0,0,0
 2020-24-01,Belarus,0,0,0
@@ -8815,6 +8830,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Belarus,438767,432655,3376
 2021-24-07,Belarus,439828,433782,3385
 2021-25-07,Belarus,440708,434882,3394
+2021-26-07,Belarus,441356,435374,3403
 2020-22-01,Belgium,0,0,0
 2020-23-01,Belgium,0,0,0
 2020-24-01,Belgium,0,0,0
@@ -9366,6 +9382,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Belgium,1112161,0,25217
 2021-24-07,Belgium,1113465,0,25220
 2021-25-07,Belgium,1113465,0,25220
+2021-26-07,Belgium,1117697,0,25228
 2020-22-01,Belize,0,0,0
 2020-23-01,Belize,0,0,0
 2020-24-01,Belize,0,0,0
@@ -9917,6 +9934,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Belize,13917,13219,332
 2021-24-07,Belize,13917,13219,332
 2021-25-07,Belize,13917,13219,332
+2021-26-07,Belize,13983,13255,333
 2020-22-01,Benin,0,0,0
 2020-23-01,Benin,0,0,0
 2020-24-01,Benin,0,0,0
@@ -10468,6 +10486,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Benin,8324,8125,107
 2021-24-07,Benin,8324,8125,107
 2021-25-07,Benin,8324,8125,107
+2021-26-07,Benin,8324,8125,107
 2020-22-01,Bhutan,0,0,0
 2020-23-01,Bhutan,0,0,0
 2020-24-01,Bhutan,0,0,0
@@ -11019,6 +11038,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Bhutan,2470,2215,2
 2021-24-07,Bhutan,2482,2222,2
 2021-25-07,Bhutan,2486,2239,2
+2021-26-07,Bhutan,2489,2250,2
 2020-22-01,Bolivia,0,0,0
 2020-23-01,Bolivia,0,0,0
 2020-24-01,Bolivia,0,0,0
@@ -11570,6 +11590,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Bolivia,467343,398595,17613
 2021-24-07,Bolivia,467975,399649,17637
 2021-25-07,Bolivia,468423,400682,17651
+2021-26-07,Bolivia,468423,400682,17651
 2020-22-01,Bosnia and Herzegovina,0,0,0
 2020-23-01,Bosnia and Herzegovina,0,0,0
 2020-24-01,Bosnia and Herzegovina,0,0,0
@@ -12121,6 +12142,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Bosnia and Herzegovina,205420,188460,9675
 2021-24-07,Bosnia and Herzegovina,205420,188460,9675
 2021-25-07,Bosnia and Herzegovina,205420,188460,9675
+2021-26-07,Bosnia and Herzegovina,205495,188835,9677
 2020-22-01,Botswana,0,0,0
 2020-23-01,Botswana,0,0,0
 2020-24-01,Botswana,0,0,0
@@ -12672,6 +12694,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Botswana,97657,84189,1375
 2021-24-07,Botswana,97657,84189,1375
 2021-25-07,Botswana,97657,84189,1375
+2021-26-07,Botswana,102124,87517,1485
 2020-22-01,Brazil,0,0,0
 2020-23-01,Brazil,0,0,0
 2020-24-01,Brazil,0,0,0
@@ -13223,6 +13246,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Brazil,19632443,17475091,548340
 2021-24-07,Brazil,19670534,17656625,549448
 2021-25-07,Brazil,19688663,17702038,549924
+2021-26-07,Brazil,19707662,17704701,550502
 2020-22-01,Brunei,0,0,0
 2020-23-01,Brunei,0,0,0
 2020-24-01,Brunei,0,0,0
@@ -13774,6 +13798,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Brunei,313,269,3
 2021-24-07,Brunei,321,269,3
 2021-25-07,Brunei,321,269,3
+2021-26-07,Brunei,333,270,3
 2020-22-01,Bulgaria,0,0,0
 2020-23-01,Bulgaria,0,0,0
 2020-24-01,Bulgaria,0,0,0
@@ -14325,6 +14350,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Bulgaria,423575,398132,18193
 2021-24-07,Bulgaria,423629,398145,18193
 2021-25-07,Bulgaria,423686,398151,18194
+2021-26-07,Bulgaria,423879,398224,18199
 2020-22-01,Burkina Faso,0,0,0
 2020-23-01,Burkina Faso,0,0,0
 2020-24-01,Burkina Faso,0,0,0
@@ -14876,6 +14902,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Burkina Faso,13537,13350,169
 2021-24-07,Burkina Faso,13538,13355,169
 2021-25-07,Burkina Faso,13538,13355,169
+2021-26-07,Burkina Faso,13550,13355,169
 2020-22-01,Burma,0,0,0
 2020-23-01,Burma,0,0,0
 2020-24-01,Burma,0,0,0
@@ -15427,6 +15454,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Burma,258870,177021,6459
 2021-24-07,Burma,264527,181249,6756
 2021-25-07,Burma,269525,185402,7111
+2021-26-07,Burma,274155,189729,7507
 2020-22-01,Burundi,0,0,0
 2020-23-01,Burundi,0,0,0
 2020-24-01,Burundi,0,0,0
@@ -15978,6 +16006,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Burundi,6128,773,8
 2021-24-07,Burundi,6128,773,8
 2021-25-07,Burundi,6128,773,8
+2021-26-07,Burundi,6573,773,8
 2020-22-01,Cabo Verde,0,0,0
 2020-23-01,Cabo Verde,0,0,0
 2020-24-01,Cabo Verde,0,0,0
@@ -16529,6 +16558,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Cabo Verde,33452,32617,297
 2021-24-07,Cabo Verde,33541,32699,297
 2021-25-07,Cabo Verde,33577,32739,298
+2021-26-07,Cabo Verde,33592,32808,298
 2020-22-01,Cambodia,0,0,0
 2020-23-01,Cambodia,0,0,0
 2020-24-01,Cambodia,0,0,0
@@ -17080,6 +17110,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Cambodia,71244,63474,1222
 2021-24-07,Cambodia,72104,64548,1254
 2021-25-07,Cambodia,72923,65264,1283
+2021-26-07,Cambodia,73701,65950,1305
 2020-22-01,Cameroon,0,0,0
 2020-23-01,Cameroon,0,0,0
 2020-24-01,Cameroon,0,0,0
@@ -17631,6 +17662,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Cameroon,82003,35261,1334
 2021-24-07,Cameroon,82003,35261,1334
 2021-25-07,Cameroon,82003,35261,1334
+2021-26-07,Cameroon,82064,35261,1334
 2020-22-01,Canada,0,0,0
 2020-23-01,Canada,0,0,0
 2020-24-01,Canada,0,0,0
@@ -18182,6 +18214,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Canada,1433200,1401704,26497
 2021-24-07,Canada,1433525,1401834,26504
 2021-25-07,Canada,1433792,1402035,26506
+2021-26-07,Canada,1434866,1402588,26511
 2020-22-01,Central African Republic,0,0,0
 2020-23-01,Central African Republic,0,0,0
 2020-24-01,Central African Republic,0,0,0
@@ -18733,6 +18766,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Central African Republic,7147,6859,98
 2021-24-07,Central African Republic,7147,6859,98
 2021-25-07,Central African Republic,7147,6859,98
+2021-26-07,Central African Republic,7148,6859,98
 2020-22-01,Chad,0,0,0
 2020-23-01,Chad,0,0,0
 2020-24-01,Chad,0,0,0
@@ -19284,6 +19318,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Chad,4967,4780,174
 2021-24-07,Chad,4969,4782,174
 2021-25-07,Chad,4969,4782,174
+2021-26-07,Chad,4969,4782,174
 2020-22-01,Chile,0,0,0
 2020-23-01,Chile,0,0,0
 2020-24-01,Chile,0,0,0
@@ -19835,6 +19870,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Chile,1606358,1559891,34875
 2021-24-07,Chile,1607749,1561758,34958
 2021-25-07,Chile,1609177,1563280,35026
+2021-26-07,Chile,1610345,1564777,35119
 2020-22-01,China,548,28,17
 2020-23-01,China,643,30,18
 2020-24-01,China,920,36,26
@@ -20386,6 +20422,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,China,104563,98903,4851
 2021-24-07,China,104562,98950,4848
 2021-25-07,China,104642,98979,4848
+2021-26-07,China,104713,98999,4848
 2020-22-01,Colombia,0,0,0
 2020-23-01,Colombia,0,0,0
 2020-24-01,Colombia,0,0,0
@@ -20937,6 +20974,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Colombia,4705734,4462579,118188
 2021-24-07,Colombia,4716798,4477155,118538
 2021-25-07,Colombia,4727846,4487973,118868
+2021-26-07,Colombia,4736349,4505112,119182
 2020-22-01,Comoros,0,0,0
 2020-23-01,Comoros,0,0,0
 2020-24-01,Comoros,0,0,0
@@ -21488,6 +21526,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Comoros,4014,3849,147
 2021-24-07,Comoros,4014,3849,147
 2021-25-07,Comoros,4021,3862,147
+2021-26-07,Comoros,4024,3864,147
 2020-22-01,Congo (Brazzaville),0,0,0
 2020-23-01,Congo (Brazzaville),0,0,0
 2020-24-01,Congo (Brazzaville),0,0,0
@@ -22039,6 +22078,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Congo (Brazzaville),13117,11759,176
 2021-24-07,Congo (Brazzaville),13117,11759,176
 2021-25-07,Congo (Brazzaville),13117,11759,176
+2021-26-07,Congo (Brazzaville),13156,11759,177
 2020-22-01,Congo (Kinshasa),0,0,0
 2020-23-01,Congo (Kinshasa),0,0,0
 2020-24-01,Congo (Kinshasa),0,0,0
@@ -22590,6 +22630,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Congo (Kinshasa),47404,29389,1021
 2021-24-07,Congo (Kinshasa),47786,29389,1021
 2021-25-07,Congo (Kinshasa),48128,29497,1023
+2021-26-07,Congo (Kinshasa),48503,29497,1023
 2020-22-01,Costa Rica,0,0,0
 2020-23-01,Costa Rica,0,0,0
 2020-24-01,Costa Rica,0,0,0
@@ -23141,6 +23182,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Costa Rica,398608,322423,4941
 2021-24-07,Costa Rica,398608,322423,4941
 2021-25-07,Costa Rica,398608,322423,4941
+2021-26-07,Costa Rica,398608,322423,4941
 2020-22-01,Cote d'Ivoire,0,0,0
 2020-23-01,Cote d'Ivoire,0,0,0
 2020-24-01,Cote d'Ivoire,0,0,0
@@ -23692,6 +23734,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Cote d'Ivoire,49473,48724,324
 2021-24-07,Cote d'Ivoire,49554,48778,324
 2021-25-07,Cote d'Ivoire,49592,48833,324
+2021-26-07,Cote d'Ivoire,49647,48901,324
 2020-22-01,Croatia,0,0,0
 2020-23-01,Croatia,0,0,0
 2020-24-01,Croatia,0,0,0
@@ -24243,6 +24286,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Croatia,362305,353103,8245
 2021-24-07,Croatia,362496,353238,8245
 2021-25-07,Croatia,362621,353367,8245
+2021-26-07,Croatia,362648,353477,8247
 2020-22-01,Cuba,0,0,0
 2020-23-01,Cuba,0,0,0
 2020-24-01,Cuba,0,0,0
@@ -24794,6 +24838,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Cuba,316383,276689,2203
 2021-24-07,Cuba,324115,282267,2271
 2021-25-07,Cuba,332968,288414,2351
+2021-26-07,Cuba,341152,296341,2417
 2020-22-01,Cyprus,0,0,0
 2020-23-01,Cyprus,0,0,0
 2020-24-01,Cyprus,0,0,0
@@ -25345,6 +25390,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Cyprus,96202,39061,398
 2021-24-07,Cyprus,96991,39061,399
 2021-25-07,Cyprus,97718,39061,401
+2021-26-07,Cyprus,98569,39061,404
 2020-22-01,Czechia,0,0,0
 2020-23-01,Czechia,0,0,0
 2020-24-01,Czechia,0,0,0
@@ -25896,6 +25942,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Czechia,1672140,1638606,30347
 2021-24-07,Czechia,1672340,1638611,30357
 2021-25-07,Czechia,1672409,1638881,30357
+2021-26-07,Czechia,1672547,1639161,30357
 2020-22-01,Denmark,0,0,0
 2020-23-01,Denmark,0,0,0
 2020-24-01,Denmark,0,0,0
@@ -26447,6 +26494,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Denmark,311170,296653,2543
 2021-24-07,Denmark,311935,297229,2543
 2021-25-07,Denmark,312582,297881,2543
+2021-26-07,Denmark,313354,298800,2544
 2020-22-01,Diamond Princess,0,0,0
 2020-23-01,Diamond Princess,0,0,0
 2020-24-01,Diamond Princess,0,0,0
@@ -26998,6 +27046,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Diamond Princess,712,699,13
 2021-24-07,Diamond Princess,712,699,13
 2021-25-07,Diamond Princess,712,699,13
+2021-26-07,Diamond Princess,712,699,13
 2020-22-01,Djibouti,0,0,0
 2020-23-01,Djibouti,0,0,0
 2020-24-01,Djibouti,0,0,0
@@ -27549,6 +27598,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Djibouti,11634,11466,155
 2021-24-07,Djibouti,11634,11466,155
 2021-25-07,Djibouti,11635,11472,155
+2021-26-07,Djibouti,11637,11475,155
 2020-22-01,Dominica,0,0,0
 2020-23-01,Dominica,0,0,0
 2020-24-01,Dominica,0,0,0
@@ -28100,6 +28150,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Dominica,209,196,0
 2021-24-07,Dominica,209,196,0
 2021-25-07,Dominica,209,196,0
+2021-26-07,Dominica,209,196,0
 2020-22-01,Dominican Republic,0,0,0
 2020-23-01,Dominican Republic,0,0,0
 2020-24-01,Dominican Republic,0,0,0
@@ -28651,6 +28702,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Dominican Republic,339302,292697,3931
 2021-24-07,Dominican Republic,339669,297813,3937
 2021-25-07,Dominican Republic,340053,302952,3937
+2021-26-07,Dominican Republic,340230,305025,3937
 2020-22-01,Ecuador,0,0,0
 2020-23-01,Ecuador,0,0,0
 2020-24-01,Ecuador,0,0,0
@@ -29202,6 +29254,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Ecuador,480720,443880,30797
 2021-24-07,Ecuador,480720,443880,30797
 2021-25-07,Ecuador,480720,443880,30797
+2021-26-07,Ecuador,480720,443880,30797
 2020-22-01,Egypt,0,0,0
 2020-23-01,Egypt,0,0,0
 2020-24-01,Egypt,0,0,0
@@ -29753,6 +29806,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Egypt,283947,227068,16477
 2021-24-07,Egypt,283985,227490,16481
 2021-25-07,Egypt,284024,227612,16487
+2021-26-07,Egypt,284059,227970,16494
 2020-22-01,El Salvador,0,0,0
 2020-23-01,El Salvador,0,0,0
 2020-24-01,El Salvador,0,0,0
@@ -30304,6 +30358,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,El Salvador,84691,75724,2538
 2021-24-07,El Salvador,84691,75724,2547
 2021-25-07,El Salvador,84691,75724,2558
+2021-26-07,El Salvador,84691,75724,2567
 2020-22-01,Equatorial Guinea,0,0,0
 2020-23-01,Equatorial Guinea,0,0,0
 2020-24-01,Equatorial Guinea,0,0,0
@@ -30855,6 +30910,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Equatorial Guinea,8863,8637,123
 2021-24-07,Equatorial Guinea,8863,8637,123
 2021-25-07,Equatorial Guinea,8863,8637,123
+2021-26-07,Equatorial Guinea,8863,8637,123
 2020-22-01,Eritrea,0,0,0
 2020-23-01,Eritrea,0,0,0
 2020-24-01,Eritrea,0,0,0
@@ -31406,6 +31462,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Eritrea,6491,6249,33
 2021-24-07,Eritrea,6495,6282,33
 2021-25-07,Eritrea,6495,6282,33
+2021-26-07,Eritrea,6506,6301,33
 2020-22-01,Estonia,0,0,0
 2020-23-01,Estonia,0,0,0
 2020-24-01,Estonia,0,0,0
@@ -31957,6 +32014,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Estonia,132262,128314,1271
 2021-24-07,Estonia,132368,128396,1271
 2021-25-07,Estonia,132458,128396,1271
+2021-26-07,Estonia,132524,128414,1271
 2020-22-01,Eswatini,0,0,0
 2020-23-01,Eswatini,0,0,0
 2020-24-01,Eswatini,0,0,0
@@ -32508,6 +32566,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Eswatini,22156,19570,742
 2021-24-07,Eswatini,22687,19769,747
 2021-25-07,Eswatini,23005,19962,752
+2021-26-07,Eswatini,23347,20157,759
 2020-22-01,Ethiopia,0,0,0
 2020-23-01,Ethiopia,0,0,0
 2020-24-01,Ethiopia,0,0,0
@@ -33059,6 +33118,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Ethiopia,278233,262750,4365
 2021-24-07,Ethiopia,278446,262848,4367
 2021-25-07,Ethiopia,278543,262862,4369
+2021-26-07,Ethiopia,278717,262925,4371
 2020-22-01,Fiji,0,0,0
 2020-23-01,Fiji,0,0,0
 2020-24-01,Fiji,0,0,0
@@ -33610,6 +33670,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Fiji,21829,5521,172
 2021-24-07,Fiji,22513,5686,177
 2021-25-07,Fiji,23139,5928,186
+2021-26-07,Fiji,24424,6191,195
 2020-22-01,Finland,0,0,0
 2020-23-01,Finland,0,0,0
 2020-24-01,Finland,0,0,0
@@ -34161,6 +34222,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Finland,102042,46000,979
 2021-24-07,Finland,102612,46000,980
 2021-25-07,Finland,102972,46000,980
+2021-26-07,Finland,103239,46000,981
 2020-22-01,France,0,0,0
 2020-23-01,France,0,0,0
 2020-24-01,France,2,0,0
@@ -34712,6 +34774,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,France,6015469,410349,111778
 2021-24-07,France,6041146,410525,111800
 2021-25-07,France,6056388,410554,111806
+2021-26-07,France,6061802,410903,111851
 2020-22-01,Gabon,0,0,0
 2020-23-01,Gabon,0,0,0
 2020-24-01,Gabon,0,0,0
@@ -35263,6 +35326,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Gabon,25325,25081,163
 2021-24-07,Gabon,25325,25081,163
 2021-25-07,Gabon,25325,25081,163
+2021-26-07,Gabon,25344,25113,163
 2020-22-01,Gambia,0,0,0
 2020-23-01,Gambia,0,0,0
 2020-24-01,Gambia,0,0,0
@@ -35814,6 +35878,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Gambia,7161,6080,197
 2021-24-07,Gambia,7333,6205,208
 2021-25-07,Gambia,7333,6205,208
+2021-26-07,Gambia,7333,6205,208
 2020-22-01,Georgia,0,0,0
 2020-23-01,Georgia,0,0,0
 2020-24-01,Georgia,0,0,0
@@ -36365,6 +36430,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Georgia,398081,370565,5656
 2021-24-07,Georgia,400698,371434,5665
 2021-25-07,Georgia,402759,373088,5688
+2021-26-07,Georgia,404023,374753,5714
 2020-22-01,Germany,0,0,0
 2020-23-01,Germany,0,0,0
 2020-24-01,Germany,0,0,0
@@ -36916,6 +36982,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Germany,3760291,3642120,91514
 2021-24-07,Germany,3761869,3643350,91531
 2021-25-07,Germany,3763018,3644560,91534
+2021-26-07,Germany,3764441,3645870,91573
 2020-22-01,Ghana,0,0,0
 2020-23-01,Ghana,0,0,0
 2020-24-01,Ghana,0,0,0
@@ -37467,6 +37534,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Ghana,100250,95871,819
 2021-24-07,Ghana,100747,96115,819
 2021-25-07,Ghana,101170,96255,821
+2021-26-07,Ghana,102103,96759,823
 2020-22-01,Greece,0,0,0
 2020-23-01,Greece,0,0,0
 2020-24-01,Greece,0,0,0
@@ -38018,6 +38086,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Greece,471894,93764,12858
 2021-24-07,Greece,474366,93764,12866
 2021-25-07,Greece,475919,93764,12874
+2021-26-07,Greece,477975,93764,12879
 2020-22-01,Grenada,0,0,0
 2020-23-01,Grenada,0,0,0
 2020-24-01,Grenada,0,0,0
@@ -38569,6 +38638,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Grenada,164,161,1
 2021-24-07,Grenada,164,161,1
 2021-25-07,Grenada,164,161,1
+2021-26-07,Grenada,164,161,1
 2020-22-01,Guatemala,0,0,0
 2020-23-01,Guatemala,0,0,0
 2020-24-01,Guatemala,0,0,0
@@ -39120,6 +39190,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Guatemala,347496,302441,10063
 2021-24-07,Guatemala,350816,305003,10093
 2021-25-07,Guatemala,352088,307142,10100
+2021-26-07,Guatemala,352584,308908,10112
 2020-22-01,Guinea,0,0,0
 2020-23-01,Guinea,0,0,0
 2020-24-01,Guinea,0,0,0
@@ -39671,6 +39742,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Guinea,24878,23733,197
 2021-24-07,Guinea,24993,23809,198
 2021-25-07,Guinea,25054,23843,202
+2021-26-07,Guinea,25126,23946,205
 2020-22-01,Guinea-Bissau,0,0,0
 2020-23-01,Guinea-Bissau,0,0,0
 2020-24-01,Guinea-Bissau,0,0,0
@@ -40222,6 +40294,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Guinea-Bissau,4148,3778,74
 2021-24-07,Guinea-Bissau,4208,3801,74
 2021-25-07,Guinea-Bissau,4212,3811,74
+2021-26-07,Guinea-Bissau,4212,3811,74
 2020-22-01,Guyana,0,0,0
 2020-23-01,Guyana,0,0,0
 2020-24-01,Guyana,0,0,0
@@ -40773,6 +40846,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Guyana,21850,20366,518
 2021-24-07,Guyana,22090,20503,523
 2021-25-07,Guyana,22150,20582,527
+2021-26-07,Guyana,22181,20665,530
 2020-22-01,Haiti,0,0,0
 2020-23-01,Haiti,0,0,0
 2020-24-01,Haiti,0,0,0
@@ -41324,6 +41398,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Haiti,19762,12961,523
 2021-24-07,Haiti,19762,12961,523
 2021-25-07,Haiti,19762,12961,523
+2021-26-07,Haiti,19817,12961,527
 2020-22-01,Holy See,0,0,0
 2020-23-01,Holy See,0,0,0
 2020-24-01,Holy See,0,0,0
@@ -41875,6 +41950,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Holy See,27,27,0
 2021-24-07,Holy See,27,27,0
 2021-25-07,Holy See,27,27,0
+2021-26-07,Holy See,27,27,0
 2020-22-01,Honduras,0,0,0
 2020-23-01,Honduras,0,0,0
 2020-24-01,Honduras,0,0,0
@@ -42426,6 +42502,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Honduras,286635,97430,7594
 2021-24-07,Honduras,286635,97430,7594
 2021-25-07,Honduras,286635,97430,7594
+2021-26-07,Honduras,286635,97430,7594
 2020-22-01,Hungary,0,0,0
 2020-23-01,Hungary,0,0,0
 2020-24-01,Hungary,0,0,0
@@ -42977,6 +43054,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Hungary,809101,745277,30020
 2021-24-07,Hungary,809101,745277,30020
 2021-25-07,Hungary,809101,745277,30020
+2021-26-07,Hungary,809262,745848,30020
 2020-22-01,Iceland,0,0,0
 2020-23-01,Iceland,0,0,0
 2020-24-01,Iceland,0,0,0
@@ -43528,6 +43606,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Iceland,7054,6653,30
 2021-24-07,Iceland,7148,6655,30
 2021-25-07,Iceland,7233,6658,30
+2021-26-07,Iceland,7304,6665,30
 2020-22-01,India,0,0,0
 2020-23-01,India,0,0,0
 2020-24-01,India,0,0,0
@@ -44079,6 +44158,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,India,31293062,30468079,419470
 2021-24-07,India,31371901,30543138,420551
 2021-25-07,India,31411262,30579106,420967
+2021-26-07,India,31411262,30579106,420967
 2020-22-01,Indonesia,0,0,0
 2020-23-01,Indonesia,0,0,0
 2020-24-01,Indonesia,0,0,0
@@ -44630,6 +44710,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Indonesia,3082410,2431911,80598
 2021-24-07,Indonesia,3127826,2471678,82013
 2021-25-07,Indonesia,3166505,2509318,83279
+2021-26-07,Indonesia,3194733,2549692,84766
 2020-22-01,Iran,0,0,0
 2020-23-01,Iran,0,0,0
 2020-24-01,Iran,0,0,0
@@ -45181,6 +45262,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Iran,3645654,3220445,88273
 2021-24-07,Iran,3664286,3239172,88532
 2021-25-07,Iran,3691432,3256856,88800
+2021-26-07,Iran,3723246,3274346,89122
 2020-22-01,Iraq,0,0,0
 2020-23-01,Iraq,0,0,0
 2020-24-01,Iraq,0,0,0
@@ -45732,6 +45814,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Iraq,1535848,1394536,18167
 2021-24-07,Iraq,1543501,1402537,18232
 2021-25-07,Iraq,1552648,1411029,18287
+2021-26-07,Iraq,1564828,1420995,18347
 2020-22-01,Ireland,0,0,0
 2020-23-01,Ireland,0,0,0
 2020-24-01,Ireland,0,0,0
@@ -46283,6 +46366,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Ireland,290525,23364,5026
 2021-24-07,Ireland,291870,23364,5026
 2021-25-07,Ireland,292996,23364,5026
+2021-26-07,Ireland,294272,23364,5026
 2020-22-01,Israel,0,0,0
 2020-23-01,Israel,0,0,0
 2020-24-01,Israel,0,0,0
@@ -46834,6 +46918,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Israel,857977,841252,6457
 2021-24-07,Israel,859398,841667,6458
 2021-25-07,Israel,860652,842888,6460
+2021-26-07,Israel,862717,843765,6461
 2020-22-01,Italy,0,0,0
 2020-23-01,Italy,0,0,0
 2020-24-01,Italy,0,0,0
@@ -47385,6 +47470,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Italy,4307535,4120846,127937
 2021-24-07,Italy,4312673,4122208,127942
 2021-25-07,Italy,4317415,4123209,127949
+2021-26-07,Italy,4320530,4124323,127971
 2020-22-01,Jamaica,0,0,0
 2020-23-01,Jamaica,0,0,0
 2020-24-01,Jamaica,0,0,0
@@ -47936,6 +48022,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Jamaica,51686,46819,1168
 2021-24-07,Jamaica,51686,46819,1168
 2021-25-07,Jamaica,51984,46843,1176
+2021-26-07,Jamaica,52089,46868,1178
 2020-22-01,Japan,2,0,0
 2020-23-01,Japan,2,0,0
 2020-24-01,Japan,2,0,0
@@ -48487,6 +48574,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Japan,862585,808257,15059
 2021-24-07,Japan,866325,810728,15068
 2021-25-07,Japan,871360,813868,15072
+2021-26-07,Japan,876059,816719,15084
 2020-22-01,Jordan,0,0,0
 2020-23-01,Jordan,0,0,0
 2020-24-01,Jordan,0,0,0
@@ -49038,6 +49126,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Jordan,763437,746015,9933
 2021-24-07,Jordan,763922,746406,9948
 2021-25-07,Jordan,764983,746960,9963
+2021-26-07,Jordan,766114,747719,9971
 2020-22-01,Kazakhstan,0,0,0
 2020-23-01,Kazakhstan,0,0,0
 2020-24-01,Kazakhstan,0,0,0
@@ -49589,6 +49678,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Kazakhstan,641388,498125,5244
 2021-24-07,Kazakhstan,582013,498125,5244
 2021-25-07,Kazakhstan,595577,503416,5452
+2021-26-07,Kazakhstan,602397,506116,5538
 2020-22-01,Kenya,0,0,0
 2020-23-01,Kenya,0,0,0
 2020-24-01,Kenya,0,0,0
@@ -50140,6 +50230,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Kenya,195898,184885,3838
 2021-24-07,Kenya,196745,185762,3849
 2021-25-07,Kenya,197409,185808,3865
+2021-26-07,Kenya,197959,186594,3872
 2020-22-01,Kiribati,0,0,0
 2020-23-01,Kiribati,0,0,0
 2020-24-01,Kiribati,0,0,0
@@ -50691,6 +50782,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Kiribati,2,0,0
 2021-24-07,Kiribati,2,0,0
 2021-25-07,Kiribati,2,0,0
+2021-26-07,Kiribati,2,0,0
 2020-22-01,"Korea, South",1,0,0
 2020-23-01,"Korea, South",1,0,0
 2020-24-01,"Korea, South",2,0,0
@@ -51242,6 +51334,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,"Korea, South",187362,165246,2068
 2021-24-07,"Korea, South",188848,166375,2073
 2021-25-07,"Korea, South",190166,167365,2077
+2021-26-07,"Korea, South",190166,167365,2077
 2020-22-01,Kosovo,0,0,0
 2020-23-01,Kosovo,0,0,0
 2020-24-01,Kosovo,0,0,0
@@ -51793,6 +51886,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Kosovo,107973,105582,2269
 2021-24-07,Kosovo,107992,105590,2269
 2021-25-07,Kosovo,108017,105591,2269
+2021-26-07,Kosovo,108031,105597,2269
 2020-22-01,Kuwait,0,0,0
 2020-23-01,Kuwait,0,0,0
 2020-24-01,Kuwait,0,0,0
@@ -52344,6 +52438,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Kuwait,390794,373507,2273
 2021-24-07,Kuwait,391781,374986,2279
 2021-25-07,Kuwait,392617,376098,2284
+2021-26-07,Kuwait,393605,377434,2293
 2020-22-01,Kyrgyzstan,0,0,0
 2020-23-01,Kyrgyzstan,0,0,0
 2020-24-01,Kyrgyzstan,0,0,0
@@ -52895,6 +52990,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Kyrgyzstan,155005,132138,2227
 2021-24-07,Kyrgyzstan,156152,133444,2238
 2021-25-07,Kyrgyzstan,157147,135132,2249
+2021-26-07,Kyrgyzstan,158120,136700,2261
 2020-22-01,Laos,0,0,0
 2020-23-01,Laos,0,0,0
 2020-24-01,Laos,0,0,0
@@ -53446,6 +53542,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Laos,4342,2174,5
 2021-24-07,Laos,4620,2174,5
 2021-25-07,Laos,4762,2174,5
+2021-26-07,Laos,4985,2174,5
 2020-22-01,Latvia,0,0,0
 2020-23-01,Latvia,0,0,0
 2020-24-01,Latvia,0,0,0
@@ -53997,6 +54094,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Latvia,138382,135295,2550
 2021-24-07,Latvia,138425,135326,2550
 2021-25-07,Latvia,138481,135362,2550
+2021-26-07,Latvia,138504,135380,2550
 2020-22-01,Lebanon,0,0,0
 2020-23-01,Lebanon,0,0,0
 2020-24-01,Lebanon,0,0,0
@@ -54548,6 +54646,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Lebanon,553615,535663,7890
 2021-24-07,Lebanon,554458,536111,7891
 2021-25-07,Lebanon,555302,536111,7892
+2021-26-07,Lebanon,555643,536397,7894
 2020-22-01,Lesotho,0,0,0
 2020-23-01,Lesotho,0,0,0
 2020-24-01,Lesotho,0,0,0
@@ -55099,6 +55198,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Lesotho,12679,6621,357
 2021-24-07,Lesotho,12787,6621,357
 2021-25-07,Lesotho,12880,6621,363
+2021-26-07,Lesotho,12880,6621,363
 2020-22-01,Liberia,0,0,0
 2020-23-01,Liberia,0,0,0
 2020-24-01,Liberia,0,0,0
@@ -55650,6 +55750,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Liberia,5396,2715,148
 2021-24-07,Liberia,5396,2715,148
 2021-25-07,Liberia,5396,2715,148
+2021-26-07,Liberia,5396,2715,148
 2020-22-01,Libya,0,0,0
 2020-23-01,Libya,0,0,0
 2020-24-01,Libya,0,0,0
@@ -56201,6 +56302,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Libya,229604,185468,3344
 2021-24-07,Libya,229604,185468,3344
 2021-25-07,Libya,233449,186355,3375
+2021-26-07,Libya,236961,187221,3398
 2020-22-01,Liechtenstein,0,0,0
 2020-23-01,Liechtenstein,0,0,0
 2020-24-01,Liechtenstein,0,0,0
@@ -56752,6 +56854,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Liechtenstein,3073,2996,59
 2021-24-07,Liechtenstein,3075,2997,59
 2021-25-07,Liechtenstein,3075,2997,59
+2021-26-07,Liechtenstein,3076,3000,59
 2020-22-01,Lithuania,0,0,0
 2020-23-01,Lithuania,0,0,0
 2020-24-01,Lithuania,0,0,0
@@ -57303,6 +57406,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Lithuania,280541,268521,4409
 2021-24-07,Lithuania,280774,268620,4410
 2021-25-07,Lithuania,280966,268627,4410
+2021-26-07,Lithuania,281063,268645,4410
 2020-22-01,Luxembourg,0,0,0
 2020-23-01,Luxembourg,0,0,0
 2020-24-01,Luxembourg,0,0,0
@@ -57854,6 +57958,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Luxembourg,73412,71117,821
 2021-24-07,Luxembourg,73412,71117,821
 2021-25-07,Luxembourg,73412,71117,821
+2021-26-07,Luxembourg,73551,71490,822
 2020-22-01,MS Zaandam,0,0,0
 2020-23-01,MS Zaandam,0,0,0
 2020-24-01,MS Zaandam,0,0,0
@@ -58405,6 +58510,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,MS Zaandam,9,7,2
 2021-24-07,MS Zaandam,9,7,2
 2021-25-07,MS Zaandam,9,7,2
+2021-26-07,MS Zaandam,9,7,2
 2020-22-01,Madagascar,0,0,0
 2020-23-01,Madagascar,0,0,0
 2020-24-01,Madagascar,0,0,0
@@ -58956,6 +59062,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Madagascar,42581,40999,939
 2021-24-07,Madagascar,42590,41014,939
 2021-25-07,Madagascar,42599,41027,939
+2021-26-07,Madagascar,42599,41039,940
 2020-22-01,Malawi,0,0,0
 2020-23-01,Malawi,0,0,0
 2020-24-01,Malawi,0,0,0
@@ -59507,6 +59614,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Malawi,47265,36019,1439
 2021-24-07,Malawi,48066,36161,1458
 2021-25-07,Malawi,48637,36419,1480
+2021-26-07,Malawi,49009,36672,1513
 2020-22-01,Malaysia,0,0,0
 2020-23-01,Malaysia,0,0,0
 2020-24-01,Malaysia,0,0,0
@@ -60058,6 +60166,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Malaysia,980491,825387,7718
 2021-24-07,Malaysia,996393,834858,7902
 2021-25-07,Malaysia,1013438,844541,7994
+2021-26-07,Malaysia,1027954,853913,8201
 2020-22-01,Maldives,0,0,0
 2020-23-01,Maldives,0,0,0
 2020-24-01,Maldives,0,0,0
@@ -60609,6 +60718,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Maldives,76546,73710,218
 2021-24-07,Maldives,76627,73795,219
 2021-25-07,Maldives,76750,73873,219
+2021-26-07,Maldives,76848,74020,219
 2020-22-01,Mali,0,0,0
 2020-23-01,Mali,0,0,0
 2020-24-01,Mali,0,0,0
@@ -61160,6 +61270,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Mali,14532,13119,530
 2021-24-07,Mali,14540,13524,530
 2021-25-07,Mali,14542,13924,530
+2021-26-07,Mali,14546,13928,531
 2020-22-01,Malta,0,0,0
 2020-23-01,Malta,0,0,0
 2020-24-01,Malta,0,0,0
@@ -61711,6 +61822,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Malta,33370,30356,420
 2021-24-07,Malta,33541,30448,421
 2021-25-07,Malta,33668,30557,421
+2021-26-07,Malta,33762,30683,421
 2020-22-01,Marshall Islands,0,0,0
 2020-23-01,Marshall Islands,0,0,0
 2020-24-01,Marshall Islands,0,0,0
@@ -62262,6 +62374,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Marshall Islands,4,4,0
 2021-24-07,Marshall Islands,4,4,0
 2021-25-07,Marshall Islands,4,4,0
+2021-26-07,Marshall Islands,4,4,0
 2020-22-01,Mauritania,0,0,0
 2020-23-01,Mauritania,0,0,0
 2020-24-01,Mauritania,0,0,0
@@ -62813,6 +62926,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Mauritania,23378,21168,520
 2021-24-07,Mauritania,23555,21256,528
 2021-25-07,Mauritania,23755,21390,535
+2021-26-07,Mauritania,24008,21536,538
 2020-22-01,Mauritius,0,0,0
 2020-23-01,Mauritius,0,0,0
 2020-24-01,Mauritius,0,0,0
@@ -63364,6 +63478,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Mauritius,3388,1854,19
 2021-24-07,Mauritius,3388,1854,19
 2021-25-07,Mauritius,3388,1854,19
+2021-26-07,Mauritius,3785,1854,19
 2020-22-01,Mexico,0,0,0
 2020-23-01,Mexico,0,0,0
 2020-24-01,Mexico,0,0,0
@@ -63915,6 +64030,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Mexico,2709739,2120815,237626
 2021-24-07,Mexico,2741983,2140327,238316
 2021-25-07,Mexico,2748518,2148642,238424
+2021-26-07,Mexico,2754438,2160130,238595
 2020-22-01,Micronesia,0,0,0
 2020-23-01,Micronesia,0,0,0
 2020-24-01,Micronesia,0,0,0
@@ -64466,6 +64582,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Micronesia,1,1,0
 2021-24-07,Micronesia,1,1,0
 2021-25-07,Micronesia,1,1,0
+2021-26-07,Micronesia,1,1,0
 2020-22-01,Moldova,0,0,0
 2020-23-01,Moldova,0,0,0
 2020-24-01,Moldova,0,0,0
@@ -65017,6 +65134,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Moldova,258484,251347,6240
 2021-24-07,Moldova,258581,251437,6242
 2021-25-07,Moldova,258624,251489,6243
+2021-26-07,Moldova,258713,251553,6245
 2020-22-01,Monaco,0,0,0
 2020-23-01,Monaco,0,0,0
 2020-24-01,Monaco,0,0,0
@@ -65568,6 +65686,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Monaco,2757,2617,33
 2021-24-07,Monaco,2779,2617,33
 2021-25-07,Monaco,2785,2627,33
+2021-26-07,Monaco,2796,2646,33
 2020-22-01,Mongolia,0,0,0
 2020-23-01,Mongolia,0,0,0
 2020-24-01,Mongolia,0,0,0
@@ -66119,6 +66238,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Mongolia,153782,146977,761
 2021-24-07,Mongolia,155224,149533,767
 2021-25-07,Mongolia,157974,154172,782
+2021-26-07,Mongolia,157974,154172,782
 2020-22-01,Montenegro,0,0,0
 2020-23-01,Montenegro,0,0,0
 2020-24-01,Montenegro,0,0,0
@@ -66670,6 +66790,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Montenegro,100929,98777,1624
 2021-24-07,Montenegro,101061,98806,1624
 2021-25-07,Montenegro,101130,98825,1624
+2021-26-07,Montenegro,101207,98838,1627
 2020-22-01,Morocco,0,0,0
 2020-23-01,Morocco,0,0,0
 2020-24-01,Morocco,0,0,0
@@ -67221,6 +67342,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Morocco,569668,540474,9536
 2021-24-07,Morocco,575162,542078,9559
 2021-25-07,Morocco,579272,543603,9589
+2021-26-07,Morocco,581477,546426,9611
 2020-22-01,Mozambique,0,0,0
 2020-23-01,Mozambique,0,0,0
 2020-24-01,Mozambique,0,0,0
@@ -67772,6 +67894,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Mozambique,107309,82299,1232
 2021-24-07,Mozambique,108760,82616,1257
 2021-25-07,Mozambique,110288,82767,1282
+2021-26-07,Mozambique,111723,84993,1307
 2020-22-01,Namibia,0,0,0
 2020-23-01,Namibia,0,0,0
 2020-24-01,Namibia,0,0,0
@@ -68323,6 +68446,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Namibia,115009,90761,2714
 2021-24-07,Namibia,115793,92030,2760
 2021-25-07,Namibia,116603,92879,2811
+2021-26-07,Namibia,116964,93136,2834
 2020-22-01,Nepal,0,0,0
 2020-23-01,Nepal,0,0,0
 2020-24-01,Nepal,0,0,0
@@ -68874,6 +68998,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Nepal,676708,639368,9679
 2021-24-07,Nepal,679017,641565,9695
 2021-25-07,Nepal,680556,643615,9713
+2021-26-07,Nepal,682947,645301,9738
 2020-22-01,Netherlands,0,0,0
 2020-23-01,Netherlands,0,0,0
 2020-24-01,Netherlands,0,0,0
@@ -69425,6 +69550,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Netherlands,1862517,27679,18078
 2021-24-07,Netherlands,1867907,27739,18082
 2021-25-07,Netherlands,1872555,27802,18086
+2021-26-07,Netherlands,1876493,27875,18087
 2020-22-01,New Zealand,0,0,0
 2020-23-01,New Zealand,0,0,0
 2020-24-01,New Zealand,0,0,0
@@ -69976,6 +70102,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,New Zealand,3212,2749,26
 2021-24-07,New Zealand,2863,2778,26
 2021-25-07,New Zealand,2864,2783,26
+2021-26-07,New Zealand,2864,2785,26
 2020-22-01,Nicaragua,0,0,0
 2020-23-01,Nicaragua,0,0,0
 2020-24-01,Nicaragua,0,0,0
@@ -70527,6 +70654,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Nicaragua,9108,4225,194
 2021-24-07,Nicaragua,9108,4225,194
 2021-25-07,Nicaragua,9108,4225,194
+2021-26-07,Nicaragua,9108,4225,194
 2020-22-01,Niger,0,0,0
 2020-23-01,Niger,0,0,0
 2020-24-01,Niger,0,0,0
@@ -71078,6 +71206,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Niger,5596,5296,195
 2021-24-07,Niger,5598,5296,195
 2021-25-07,Niger,5599,5300,195
+2021-26-07,Niger,5600,5300,195
 2020-22-01,Nigeria,0,0,0
 2020-23-01,Nigeria,0,0,0
 2020-24-01,Nigeria,0,0,0
@@ -71629,6 +71758,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Nigeria,170306,164772,2130
 2021-24-07,Nigeria,170895,164788,2132
 2021-25-07,Nigeria,171111,164789,2132
+2021-26-07,Nigeria,171324,164798,2134
 2020-22-01,North Macedonia,0,0,0
 2020-23-01,North Macedonia,0,0,0
 2020-24-01,North Macedonia,0,0,0
@@ -72180,6 +72310,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,North Macedonia,156017,150263,5489
 2021-24-07,North Macedonia,156054,150273,5489
 2021-25-07,North Macedonia,156078,150279,5489
+2021-26-07,North Macedonia,156086,150295,5491
 2020-22-01,Norway,0,0,0
 2020-23-01,Norway,0,0,0
 2020-24-01,Norway,0,0,0
@@ -72731,6 +72862,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Norway,135463,17998,799
 2021-24-07,Norway,135631,17998,799
 2021-25-07,Norway,135767,17998,799
+2021-26-07,Norway,136097,17998,799
 2020-22-01,Oman,0,0,0
 2020-23-01,Oman,0,0,0
 2020-24-01,Oman,0,0,0
@@ -73282,6 +73414,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Oman,289042,263752,3498
 2021-24-07,Oman,289042,263752,3498
 2021-25-07,Oman,289042,263752,3498
+2021-26-07,Oman,294526,276483,3771
 2020-22-01,Pakistan,0,0,0
 2020-23-01,Pakistan,0,0,0
 2020-24-01,Pakistan,0,0,0
@@ -73833,6 +73966,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Pakistan,1000034,923472,22939
 2021-24-07,Pakistan,1004694,925958,23016
 2021-25-07,Pakistan,1008446,927599,23048
+2021-26-07,Pakistan,1011708,928722,23087
 2020-22-01,Palau,0,0,0
 2020-23-01,Palau,0,0,0
 2020-24-01,Palau,0,0,0
@@ -74384,6 +74518,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Palau,0,0,0
 2021-24-07,Palau,0,0,0
 2021-25-07,Palau,0,0,0
+2021-26-07,Palau,0,0,0
 2020-22-01,Panama,0,0,0
 2020-23-01,Panama,0,0,0
 2020-24-01,Panama,0,0,0
@@ -74935,6 +75070,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Panama,427987,408155,6743
 2021-24-07,Panama,429083,409216,6750
 2021-25-07,Panama,429949,409995,6759
+2021-26-07,Panama,430444,410678,6768
 2020-22-01,Papua New Guinea,0,0,0
 2020-23-01,Papua New Guinea,0,0,0
 2020-24-01,Papua New Guinea,0,0,0
@@ -75486,6 +75622,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Papua New Guinea,17581,17177,192
 2021-24-07,Papua New Guinea,17637,17222,192
 2021-25-07,Papua New Guinea,17637,17222,192
+2021-26-07,Papua New Guinea,17637,17222,192
 2020-22-01,Paraguay,0,0,0
 2020-23-01,Paraguay,0,0,0
 2020-24-01,Paraguay,0,0,0
@@ -76037,6 +76174,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Paraguay,448508,410297,14550
 2021-24-07,Paraguay,448918,411592,14593
 2021-25-07,Paraguay,449341,412875,14653
+2021-26-07,Paraguay,449902,414125,14701
 2020-22-01,Peru,0,0,0
 2020-23-01,Peru,0,0,0
 2020-24-01,Peru,0,0,0
@@ -76588,6 +76726,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Peru,2094445,2060255,195243
 2021-24-07,Peru,2094445,2060255,195243
 2021-25-07,Peru,2094445,2060255,195243
+2021-26-07,Peru,2104394,2060255,195890
 2020-22-01,Philippines,0,0,0
 2020-23-01,Philippines,0,0,0
 2020-24-01,Philippines,0,0,0
@@ -77139,6 +77278,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Philippines,1537097,1455137,26891
 2021-24-07,Philippines,1543281,1461749,27131
 2021-25-07,Philippines,1548755,1467269,27224
+2021-26-07,Philippines,1555396,1473009,27247
 2020-22-01,Poland,0,0,0
 2020-23-01,Poland,0,0,0
 2020-24-01,Poland,0,0,0
@@ -77690,6 +77830,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Poland,2881948,2653172,75235
 2021-24-07,Poland,2882066,2653221,75241
 2021-25-07,Poland,2882146,2653279,75242
+2021-26-07,Poland,2882220,2653359,75242
 2020-22-01,Portugal,0,0,0
 2020-23-01,Portugal,0,0,0
 2020-24-01,Portugal,0,0,0
@@ -78241,6 +78382,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Portugal,947038,876240,17264
 2021-24-07,Portugal,950434,880368,17284
 2021-25-07,Portugal,953059,881570,17292
+2021-26-07,Portugal,954669,883372,17301
 2020-22-01,Qatar,0,0,0
 2020-23-01,Qatar,0,0,0
 2020-24-01,Qatar,0,0,0
@@ -78792,6 +78934,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Qatar,224948,222727,600
 2021-24-07,Qatar,225072,222839,600
 2021-25-07,Qatar,225198,222976,600
+2021-26-07,Qatar,225376,223114,600
 2020-22-01,Romania,0,0,0
 2020-23-01,Romania,0,0,0
 2020-24-01,Romania,0,0,0
@@ -79343,6 +79486,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Romania,1082057,1047117,34266
 2021-24-07,Romania,1082183,1047199,34267
 2021-25-07,Romania,1082292,1047246,34268
+2021-26-07,Romania,1082376,1047291,34270
 2020-22-01,Russia,0,0,0
 2020-23-01,Russia,0,0,0
 2020-24-01,Russia,0,0,0
@@ -79894,6 +80038,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Russia,6002303,5384350,149796
 2021-24-07,Russia,6025698,5405818,150583
 2021-25-07,Russia,6049215,5424361,151352
+2021-26-07,Russia,6071893,5440451,152069
 2020-22-01,Rwanda,0,0,0
 2020-23-01,Rwanda,0,0,0
 2020-24-01,Rwanda,0,0,0
@@ -80445,6 +80590,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Rwanda,62328,44739,718
 2021-24-07,Rwanda,62328,44739,727
 2021-25-07,Rwanda,62946,44739,742
+2021-26-07,Rwanda,66018,44754,757
 2020-22-01,Saint Kitts and Nevis,0,0,0
 2020-23-01,Saint Kitts and Nevis,0,0,0
 2020-24-01,Saint Kitts and Nevis,0,0,0
@@ -80996,6 +81142,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Saint Kitts and Nevis,563,527,3
 2021-24-07,Saint Kitts and Nevis,564,527,3
 2021-25-07,Saint Kitts and Nevis,565,527,3
+2021-26-07,Saint Kitts and Nevis,573,531,3
 2020-22-01,Saint Lucia,0,0,0
 2020-23-01,Saint Lucia,0,0,0
 2020-24-01,Saint Lucia,0,0,0
@@ -81547,6 +81694,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Saint Lucia,5516,5319,88
 2021-24-07,Saint Lucia,5516,5319,88
 2021-25-07,Saint Lucia,5520,5322,88
+2021-26-07,Saint Lucia,5529,5343,88
 2020-22-01,Saint Vincent and the Grenadines,0,0,0
 2020-23-01,Saint Vincent and the Grenadines,0,0,0
 2020-24-01,Saint Vincent and the Grenadines,0,0,0
@@ -82098,6 +82246,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Saint Vincent and the Grenadines,2271,2199,12
 2021-24-07,Saint Vincent and the Grenadines,2271,2199,12
 2021-25-07,Saint Vincent and the Grenadines,2271,2199,12
+2021-26-07,Saint Vincent and the Grenadines,2271,2199,12
 2020-22-01,Samoa,0,0,0
 2020-23-01,Samoa,0,0,0
 2020-24-01,Samoa,0,0,0
@@ -82649,6 +82798,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Samoa,3,3,0
 2021-24-07,Samoa,3,3,0
 2021-25-07,Samoa,3,3,0
+2021-26-07,Samoa,3,3,0
 2020-22-01,San Marino,0,0,0
 2020-23-01,San Marino,0,0,0
 2020-24-01,San Marino,0,0,0
@@ -83200,6 +83350,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,San Marino,5099,5002,90
 2021-24-07,San Marino,5099,5002,90
 2021-25-07,San Marino,5099,5002,90
+2021-26-07,San Marino,5130,5005,90
 2020-22-01,Sao Tome and Principe,0,0,0
 2020-23-01,Sao Tome and Principe,0,0,0
 2020-24-01,Sao Tome and Principe,0,0,0
@@ -83751,6 +83902,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Sao Tome and Principe,2420,2345,37
 2021-24-07,Sao Tome and Principe,2424,2348,37
 2021-25-07,Sao Tome and Principe,2424,2348,37
+2021-26-07,Sao Tome and Principe,2424,2348,37
 2020-22-01,Saudi Arabia,0,0,0
 2020-23-01,Saudi Arabia,0,0,0
 2020-24-01,Saudi Arabia,0,0,0
@@ -84302,6 +84454,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Saudi Arabia,513284,494264,8115
 2021-24-07,Saudi Arabia,513284,494264,8115
 2021-25-07,Saudi Arabia,518143,499129,8167
+2021-26-07,Saudi Arabia,518143,499129,8167
 2020-22-01,Senegal,0,0,0
 2020-23-01,Senegal,0,0,0
 2020-24-01,Senegal,0,0,0
@@ -84853,6 +85006,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Senegal,55861,44611,1264
 2021-24-07,Senegal,56573,44896,1269
 2021-25-07,Senegal,57263,45170,1281
+2021-26-07,Senegal,57881,45479,1286
 2020-22-01,Serbia,0,0,0
 2020-23-01,Serbia,0,0,0
 2020-24-01,Serbia,0,0,0
@@ -85404,6 +85558,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Serbia,719664,0,7098
 2021-24-07,Serbia,719913,0,7103
 2021-25-07,Serbia,720112,0,7104
+2021-26-07,Serbia,720353,0,7105
 2020-22-01,Seychelles,0,0,0
 2020-23-01,Seychelles,0,0,0
 2020-24-01,Seychelles,0,0,0
@@ -85955,6 +86110,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Seychelles,17747,16889,89
 2021-24-07,Seychelles,17747,16889,89
 2021-25-07,Seychelles,17747,16889,89
+2021-26-07,Seychelles,18062,17324,90
 2020-22-01,Sierra Leone,0,0,0
 2020-23-01,Sierra Leone,0,0,0
 2020-24-01,Sierra Leone,0,0,0
@@ -86506,6 +86662,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Sierra Leone,6206,4207,118
 2021-24-07,Sierra Leone,6218,4218,118
 2021-25-07,Sierra Leone,6228,4229,118
+2021-26-07,Sierra Leone,6228,4229,118
 2020-22-01,Singapore,0,0,0
 2020-23-01,Singapore,1,0,0
 2020-24-01,Singapore,3,0,0
@@ -87057,6 +87214,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Singapore,63924,62587,36
 2021-24-07,Singapore,64054,62595,37
 2021-25-07,Singapore,64179,62605,37
+2021-26-07,Singapore,64314,62617,37
 2020-22-01,Slovakia,0,0,0
 2020-23-01,Slovakia,0,0,0
 2020-24-01,Slovakia,0,0,0
@@ -87608,6 +87766,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Slovakia,392259,255300,12534
 2021-24-07,Slovakia,392259,255300,12534
 2021-25-07,Slovakia,392348,255300,12534
+2021-26-07,Slovakia,392355,255300,12534
 2020-22-01,Slovenia,0,0,0
 2020-23-01,Slovenia,0,0,0
 2020-24-01,Slovenia,0,0,0
@@ -88159,6 +88318,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Slovenia,258525,253281,4426
 2021-24-07,Slovenia,258619,253362,4427
 2021-25-07,Slovenia,258651,253385,4428
+2021-26-07,Slovenia,258674,253396,4428
 2020-22-01,Solomon Islands,0,0,0
 2020-23-01,Solomon Islands,0,0,0
 2020-24-01,Solomon Islands,0,0,0
@@ -88710,6 +88870,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Solomon Islands,20,20,0
 2021-24-07,Solomon Islands,20,20,0
 2021-25-07,Solomon Islands,20,20,0
+2021-26-07,Solomon Islands,20,20,0
 2020-22-01,Somalia,0,0,0
 2020-23-01,Somalia,0,0,0
 2020-24-01,Somalia,0,0,0
@@ -89261,6 +89422,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Somalia,15180,7277,781
 2021-24-07,Somalia,15203,7286,789
 2021-25-07,Somalia,15230,7286,796
+2021-26-07,Somalia,15251,7290,797
 2020-22-01,South Africa,0,0,0
 2020-23-01,South Africa,0,0,0
 2020-24-01,South Africa,0,0,0
@@ -89812,6 +89974,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,South Africa,2356049,2133196,69075
 2021-24-07,South Africa,2368105,2147168,69488
 2021-25-07,South Africa,2377823,2158183,69775
+2021-26-07,South Africa,2383490,2169452,70018
 2020-22-01,South Sudan,0,0,0
 2020-23-01,South Sudan,0,0,0
 2020-24-01,South Sudan,0,0,0
@@ -90363,6 +90526,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,South Sudan,10917,10514,117
 2021-24-07,South Sudan,10917,10514,117
 2021-25-07,South Sudan,10917,10514,117
+2021-26-07,South Sudan,11014,10514,118
 2020-22-01,Spain,0,0,0
 2020-23-01,Spain,0,0,0
 2020-24-01,Spain,0,0,0
@@ -90914,6 +91078,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Spain,4280429,150376,81221
 2021-24-07,Spain,4280429,150376,81221
 2021-25-07,Spain,4280429,150376,81221
+2021-26-07,Spain,4342054,150376,81268
 2020-22-01,Sri Lanka,0,0,0
 2020-23-01,Sri Lanka,0,0,0
 2020-24-01,Sri Lanka,0,0,0
@@ -91465,6 +91630,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Sri Lanka,292608,265708,4002
 2021-24-07,Sri Lanka,294850,266665,4054
 2021-25-07,Sri Lanka,296516,267602,4099
+2021-26-07,Sri Lanka,298181,269007,4147
 2020-22-01,Sudan,0,0,0
 2020-23-01,Sudan,0,0,0
 2020-24-01,Sudan,0,0,0
@@ -92016,6 +92182,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Sudan,37138,30647,2776
 2021-24-07,Sudan,37138,30647,2776
 2021-25-07,Sudan,37138,30647,2776
+2021-26-07,Sudan,37138,30647,2776
 2020-22-01,Summer Olympics 2020,0,0,0
 2020-23-01,Summer Olympics 2020,0,0,0
 2020-24-01,Summer Olympics 2020,0,0,0
@@ -92567,6 +92734,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Summer Olympics 2020,91,0,0
 2021-24-07,Summer Olympics 2020,91,0,0
 2021-25-07,Summer Olympics 2020,91,0,0
+2021-26-07,Summer Olympics 2020,137,0,0
 2020-22-01,Suriname,0,0,0
 2020-23-01,Suriname,0,0,0
 2020-24-01,Suriname,0,0,0
@@ -93118,6 +93286,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Suriname,24689,20919,627
 2021-24-07,Suriname,24797,21022,628
 2021-25-07,Suriname,24875,21149,631
+2021-26-07,Suriname,24903,21191,634
 2020-22-01,Sweden,0,0,0
 2020-23-01,Sweden,0,0,0
 2020-24-01,Sweden,0,0,0
@@ -93669,6 +93838,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Sweden,1096799,0,14651
 2021-24-07,Sweden,1096799,0,14651
 2021-25-07,Sweden,1096799,0,14651
+2021-26-07,Sweden,1096799,0,14651
 2020-22-01,Switzerland,0,0,0
 2020-23-01,Switzerland,0,0,0
 2020-24-01,Switzerland,0,0,0
@@ -94220,6 +94390,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Switzerland,712668,317600,10895
 2021-24-07,Switzerland,712668,317600,10895
 2021-25-07,Switzerland,712668,317600,10895
+2021-26-07,Switzerland,714414,317600,10897
 2020-22-01,Syria,0,0,0
 2020-23-01,Syria,0,0,0
 2020-24-01,Syria,0,0,0
@@ -94771,6 +94942,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Syria,25858,21937,1905
 2021-24-07,Syria,25865,21942,1905
 2021-25-07,Syria,25877,21948,1906
+2021-26-07,Syria,25892,21955,1908
 2020-22-01,Taiwan*,1,0,0
 2020-23-01,Taiwan*,1,0,0
 2020-24-01,Taiwan*,3,0,0
@@ -95322,6 +95494,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Taiwan*,15535,12501,784
 2021-24-07,Taiwan*,15558,12543,786
 2021-25-07,Taiwan*,15571,12555,786
+2021-26-07,Taiwan*,15582,12603,786
 2020-22-01,Tajikistan,0,0,0
 2020-23-01,Tajikistan,0,0,0
 2020-24-01,Tajikistan,0,0,0
@@ -95873,6 +96046,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Tajikistan,14427,13964,116
 2021-24-07,Tajikistan,14505,14022,116
 2021-25-07,Tajikistan,14592,14096,117
+2021-26-07,Tajikistan,14673,14167,118
 2020-22-01,Tanzania,0,0,0
 2020-23-01,Tanzania,0,0,0
 2020-24-01,Tanzania,0,0,0
@@ -96424,6 +96598,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Tanzania,509,183,21
 2021-24-07,Tanzania,509,183,21
 2021-25-07,Tanzania,509,183,21
+2021-26-07,Tanzania,509,183,21
 2020-22-01,Thailand,4,2,0
 2020-23-01,Thailand,4,2,0
 2020-24-01,Thailand,5,3,0
@@ -96975,6 +97150,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Thailand,467707,26873,3811
 2021-24-07,Thailand,481967,26873,3930
 2021-25-07,Thailand,497302,26873,4059
+2021-26-07,Thailand,512678,26873,4146
 2020-22-01,Timor-Leste,0,0,0
 2020-23-01,Timor-Leste,0,0,0
 2020-24-01,Timor-Leste,0,0,0
@@ -97526,6 +97702,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Timor-Leste,10281,9529,26
 2021-24-07,Timor-Leste,10337,9586,26
 2021-25-07,Timor-Leste,10348,9627,26
+2021-26-07,Timor-Leste,10354,9672,26
 2020-22-01,Togo,0,0,0
 2020-23-01,Togo,0,0,0
 2020-24-01,Togo,0,0,0
@@ -98077,6 +98254,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Togo,14970,13986,143
 2021-24-07,Togo,15072,14026,143
 2021-25-07,Togo,15149,14069,146
+2021-26-07,Togo,15176,14102,148
 2020-22-01,Trinidad and Tobago,0,0,0
 2020-23-01,Trinidad and Tobago,0,0,0
 2020-24-01,Trinidad and Tobago,0,0,0
@@ -98628,6 +98806,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Trinidad and Tobago,37065,30256,1026
 2021-24-07,Trinidad and Tobago,37365,30440,1032
 2021-25-07,Trinidad and Tobago,37554,30602,1039
+2021-26-07,Trinidad and Tobago,37663,30726,1043
 2020-22-01,Tunisia,0,0,0
 2020-23-01,Tunisia,0,0,0
 2020-24-01,Tunisia,0,0,0
@@ -99179,6 +99358,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Tunisia,558306,453865,18052
 2021-24-07,Tunisia,563930,457597,18369
 2021-25-07,Tunisia,569289,460361,18600
+2021-26-07,Tunisia,573394,471196,18804
 2020-22-01,Turkey,0,0,0
 2020-23-01,Turkey,0,0,0
 2020-24-01,Turkey,0,0,0
@@ -99730,6 +99910,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Turkey,5574997,5410554,50821
 2021-24-07,Turkey,5587378,5415937,50879
 2021-25-07,Turkey,5601608,5421148,50934
+2021-26-07,Turkey,5618417,5426733,50997
 2020-22-01,US,1,0,0
 2020-23-01,US,1,0,0
 2020-24-01,US,2,0,0
@@ -100281,6 +100462,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,US,34400655,0,610720
 2021-24-07,US,34428050,0,610835
 2021-25-07,US,34443761,0,610891
+2021-26-07,US,34533179,0,610952
 2020-22-01,Uganda,0,0,0
 2020-23-01,Uganda,0,0,0
 2020-24-01,Uganda,0,0,0
@@ -100832,6 +101014,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Uganda,91710,73062,2496
 2021-24-07,Uganda,92115,74418,2526
 2021-25-07,Uganda,92490,75790,2557
+2021-26-07,Uganda,92724,77171,2579
 2020-22-01,Ukraine,0,0,0
 2020-23-01,Ukraine,0,0,0
 2020-24-01,Ukraine,0,0,0
@@ -101383,6 +101566,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Ukraine,2323638,2249296,55311
 2021-24-07,Ukraine,2324935,2250174,55347
 2021-25-07,Ukraine,2325776,2250468,55369
+2021-26-07,Ukraine,2326550,2250748,55381
 2020-22-01,United Arab Emirates,0,0,0
 2020-23-01,United Arab Emirates,0,0,0
 2020-24-01,United Arab Emirates,0,0,0
@@ -101934,6 +102118,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,United Arab Emirates,668601,646227,1913
 2021-24-07,United Arab Emirates,670108,647682,1916
 2021-25-07,United Arab Emirates,671636,649173,1920
+2021-26-07,United Arab Emirates,673185,650683,1927
 2020-22-01,United Kingdom,0,0,0
 2020-23-01,United Kingdom,0,0,0
 2020-24-01,United Kingdom,0,0,0
@@ -102485,6 +102670,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,United Kingdom,5662838,17450,129330
 2021-24-07,United Kingdom,5694462,18216,129418
 2021-25-07,United Kingdom,5723399,18226,129446
+2021-26-07,United Kingdom,5748331,18546,129460
 2020-22-01,Uruguay,0,0,0
 2020-23-01,Uruguay,0,0,0
 2020-24-01,Uruguay,0,0,0
@@ -103036,6 +103222,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Uruguay,380151,371116,5919
 2021-24-07,Uruguay,380311,371463,5927
 2021-25-07,Uruguay,380431,371822,5931
+2021-26-07,Uruguay,380584,372181,5936
 2020-22-01,Uzbekistan,0,0,0
 2020-23-01,Uzbekistan,0,0,0
 2020-24-01,Uzbekistan,0,0,0
@@ -103587,6 +103774,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Uzbekistan,122786,117303,819
 2021-24-07,Uzbekistan,123559,117962,826
 2021-25-07,Uzbekistan,124290,118638,832
+2021-26-07,Uzbekistan,124995,119449,839
 2020-22-01,Vanuatu,0,0,0
 2020-23-01,Vanuatu,0,0,0
 2020-24-01,Vanuatu,0,0,0
@@ -104138,6 +104326,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Vanuatu,4,3,1
 2021-24-07,Vanuatu,4,3,1
 2021-25-07,Vanuatu,4,3,1
+2021-26-07,Vanuatu,4,3,1
 2020-22-01,Venezuela,0,0,0
 2020-23-01,Venezuela,0,0,0
 2020-24-01,Venezuela,0,0,0
@@ -104689,6 +104878,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Venezuela,296863,280269,3443
 2021-24-07,Venezuela,298804,282201,3475
 2021-25-07,Venezuela,299822,283215,3492
+2021-26-07,Venezuela,300919,284435,3509
 2020-22-01,Vietnam,0,0,0
 2020-23-01,Vietnam,2,0,0
 2020-24-01,Vietnam,2,0,0
@@ -105240,6 +105430,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Vietnam,86957,15536,370
 2021-24-07,Vietnam,94913,17583,370
 2021-25-07,Vietnam,101173,19342,370
+2021-26-07,Vietnam,106347,21344,524
 2020-22-01,West Bank and Gaza,0,0,0
 2020-23-01,West Bank and Gaza,0,0,0
 2020-24-01,West Bank and Gaza,0,0,0
@@ -105791,6 +105982,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,West Bank and Gaza,315968,311380,3596
 2021-24-07,West Bank and Gaza,315968,311380,3596
 2021-25-07,West Bank and Gaza,316088,311526,3599
+2021-26-07,West Bank and Gaza,316088,311526,3599
 2020-22-01,Yemen,0,0,0
 2020-23-01,Yemen,0,0,0
 2020-24-01,Yemen,0,0,0
@@ -106342,6 +106534,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Yemen,7003,4163,1372
 2021-24-07,Yemen,7008,4166,1373
 2021-25-07,Yemen,7012,4166,1373
+2021-26-07,Yemen,7012,4166,1373
 2020-22-01,Zambia,0,0,0
 2020-23-01,Zambia,0,0,0
 2020-24-01,Zambia,0,0,0
@@ -106893,6 +107086,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Zambia,190615,179171,3221
 2021-24-07,Zambia,191527,180535,3250
 2021-25-07,Zambia,192071,181638,3272
+2021-26-07,Zambia,192316,182665,3295
 2020-22-01,Zimbabwe,0,0,0
 2020-23-01,Zimbabwe,0,0,0
 2020-24-01,Zimbabwe,0,0,0
@@ -107444,3 +107638,4 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-23-07,Zimbabwe,95686,62986,2961
 2021-24-07,Zimbabwe,97277,64628,3050
 2021-25-07,Zimbabwe,97894,65913,3094
+2021-26-07,Zimbabwe,99944,67827,3173
