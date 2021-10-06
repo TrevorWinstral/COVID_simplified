@@ -5605,7 +5605,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-02-10,Australia,111388,0,1334
 2021-03-10,Australia,113411,0,1346
 2021-04-10,Australia,115800,0,1357
-2021-05-10,Australia,117826,0,1378
+2021-05-10,Australia,117826,0,1379
 2020-22-01,Austria,0,0,0
 2020-23-01,Austria,0,0,0
 2020-24-01,Austria,0,0,0
@@ -71643,7 +71643,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-02-10,Mauritius,15695,0,84
 2021-03-10,Mauritius,15695,0,84
 2021-04-10,Mauritius,15776,0,90
-2021-05-10,Mauritius,15776,0,90
+2021-05-10,Mauritius,15776,0,100
 2020-22-01,Mexico,0,0,0
 2020-23-01,Mexico,0,0,0
 2020-24-01,Mexico,0,0,0
@@ -113384,7 +113384,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-02-10,US,43657833,0,701149
 2021-03-10,US,43683048,0,701386
 2021-04-10,US,43852255,0,703495
-2021-05-10,US,43947317,0,705225
+2021-05-10,US,43947324,0,705225
 2020-22-01,Uganda,0,0,0
 2020-23-01,Uganda,0,0,0
 2020-24-01,Uganda,0,0,0
@@ -115876,7 +115876,7 @@ Date,Country,Confirmed,Recovered,Deaths
 2021-02-10,United Kingdom,7908091,0,137295
 2021-03-10,United Kingdom,7937810,0,137338
 2021-04-10,United Kingdom,7972312,0,137378
-2021-05-10,United Kingdom,8005496,0,137544
+2021-05-10,United Kingdom,8005502,0,137544
 2020-22-01,Uruguay,0,0,0
 2020-23-01,Uruguay,0,0,0
 2020-24-01,Uruguay,0,0,0
